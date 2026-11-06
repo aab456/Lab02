@@ -1,0 +1,22 @@
+{
+    "chart_title": "Calories in Standard-Size Candy Bars",
+    "units": {
+        "calories": "kcal per standard single bar",
+        "grams": "weight of one standard single bar"
+    },
+    "candy_bars": [
+        {"name": "Snickers",                  "maker": "Mars",    "grams": 52.7, "calories": 250},
+        {"name": "Twix",                      "maker": "Mars",    "grams": 50.7, "calories": 250},
+        {"name": "Milky Way",                 "maker": "Mars",    "grams": 52.2, "calories": 240},
+        {"name": "3 Musketeers",              "maker": "Mars",    "grams": 54.4, "calories": 240},
+        {"name": "Kit Kat",                   "maker": "Hershey", "grams": 42.0, "calories": 210},
+        {"name": "Reese's Peanut Butter Cups","maker": "Hershey", "grams": 42.0, "calories": 210},
+        {"name": "Hershey's Milk Chocolate",  "maker": "Hershey", "grams": 43.0, "calories": 220},
+        {"name": "Almond Joy",                "maker": "Hershey", "grams": 45.0, "calories": 220},
+        {"name": "PayDay",                    "maker": "Hershey", "grams": 52.0, "calories": 240},
+        {"name": "Butterfinger",              "maker": "Ferrero", "grams": 53.8, "calories": 250},
+        {"name": "Baby Ruth",                 "maker": "Ferrero", "grams": 53.8, "calories": 250},
+        {"name": "100 Grand",                 "maker": "Ferrero", "grams": 42.5, "calories": 190},
+        {"name": "Crunch",                    "maker": "Ferrero", "grams": 44.0, "calories": 220}
+    ]
+}
